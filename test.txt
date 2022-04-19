@@ -1,0 +1,12 @@
+INF: 
+INF: 
+ONP: x a ~ ~ b c * + = 
+ONP: t a ~ x < b ~ < = 
+ONP: a b + c / 
+INF: 
+INF: 
+ONP: x a b c d e ^ ^ = = = 
+ONP: r y + a b c + d + = = 
+ONP: x c a > c b < & ! = 
+ONP: x a ~ ~ ~ = 
+INF: 

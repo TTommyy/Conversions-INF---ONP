@@ -1,0 +1,51 @@
+INF: x = a * ( b * c ) 
+INF: a + b + ( ~ a - a ) 
+ONP: a b + a ~ a - + 
+ONP: x a ~ ~ b c * + = 
+ONP: t a ~ x < b ~ < = 
+ONP: a b + c / 
+INF: a * ( b - c ) 
+INF: error
+ONP: x a b c = = = 
+INF: x = ( a = ( b = c ) ) 
+ONP: a b c d ^ e - f g h * + ^ * + i - 
+INF: a + b * ( c ^ d - e ) ^ ( f + g * h ) - i 
+ONP: error
+INF: error
+ONP: error
+INF: ~ ~ a 
+ONP: error
+ONP: error
+ONP: error
+ONP: error
+ONP: error
+ONP: error
+ONP: a b - c * d e ^ / ( //tutaj
+ONP: error
+ONP: error
+ONP: error
+ONP: error
+ONP: error
+ONP: error
+ONP: error
+ONP: error
+INF: ( a + ( b - c ) ) / d ^ e 
+INF: error
+INF: a 
+ONP: a 
+ONP: a b * c d * + d e * + f g * + 
+INF: a * b + c * d + d * e + f * g 
+INF: a + ( b + ( c + d ) ) 
+INF: a + b + c + d 
+ONP: a b + c + d + 
+ONP: a b c d + + + 
+ONP: a b c d ^ ^ ^ 
+ONP: a b ^ c ^ d ^ 
+INF: ( a + b ) / ( c * d ) 
+INF: a * b * ( c * d ) 
+INF: a / b * c 
+INF: a + b + ( c + d ) 
+ONP: x a b c ^ ^ = 
+ONP: a b + 
+ONP: a b + b d - = 
+INF: ( a + ( b - c ) ) * ( ( d - e ) / ( f - g + h ) ) 

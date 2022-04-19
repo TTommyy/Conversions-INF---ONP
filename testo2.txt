@@ -1,0 +1,12 @@
+INF: x = a * ( b * c ) 
+INF: a + b + ( ~ a - a ) 
+ONP: x a ~ ~ b c * + = 
+ONP: t a ~ ~ b c * + = 
+ONP: a b + c / 
+INF: a * ( b - c ) 
+INF: error
+ONP: x a b c d e ^ ^ = = = 
+ONP: r y + a b c + d + = = 
+ONP: x c a > c b < & ! = 
+ONP: x a ~ ~ ~ = 
+INF: x = ~ ~ ~ a 
